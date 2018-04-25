@@ -17,3 +17,13 @@ Udacity Project 3
 
 - The third project I did with Udacity in 12/2017
   - I used the TMDB movie data to discover which genres when paired with the genre that contributes the most profit drives the average rating upward.  I cleaned 11000 rows of data and then used NumPy and Pandas to answer that question. I also used matplotlib and plotnine to visualize the data. I created a report using jupyter notebook and found that Adventure contributes the most to profit. Animation, drama, family, fantasy, mystery, science fiction, war, and western are the genres when paired with Adventure drives the Adventure genre upward.   
+
+Udacity Project 5
+
+- The fifth project I did with Udacity in 3/2018
+ - I used a red wine quality dataset from Udacity to determine what chemical properties influence the quality of red wines. I performed exploratory data analysis in R while documenting my exploration and analysis in a RMD file. I utilized univariate, bivariate, and multivariate means to find patterns in the data. With bivariate analysis, I found that higher quality wines are associated with higher fixed acidity, lower volatile acidity, higher citric acid, less chlorides, higher alcohol content, higher sulphates, and lower density. With multivariate analysis, I found that higher quality wine on average exhibit a total sulfur dioxide of between 15 to 50 depending on the ratio of free sulfur dioxide to total sulfur dioxide which should be between 0.15 and 0.75 and that after adjusting for alcohol content, higher quality wines tend to have a low amount of residual sugar compared to lower quality wines.
+ 
+ Udacity Project 6
+ 
+ - The sixth project I did with Udacity in 4/2018
+  - I gathered three WeRateDogs twitter datasets including querying the Twitter API using Tweepy. I assessed data quality issues in a jupyter notebook and then cleaned the datasets before merging them into one dataset. I discovered a few insights about the wrangled data which includes that the Golden Retriever was the most frequently predicted dog.

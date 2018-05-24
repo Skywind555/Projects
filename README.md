@@ -3,6 +3,12 @@ Applied Regression Analysis project
 - This is the final project I did in the course Applied Regression Analysis in my first year in the M.S. Biostatistics program in 4/2016. 
   - I used the 2014 Behavioral Risk Factor Surveillance System data to find risk factors for poor mental health. I used SAS to build a statistical model and wrote a formal report on the results styled as a statistical manuscript. In my final model, hours worked, hours slept, age group, education level, smoking frequency, number of days in a month bad physical health, and an interaction between hours slept and number of days in a month bad physical health were found to be significant. However, since my final model not meet the assumptions of linear regression the results were actually invalid.
 
+Springboard project 2
+
+- This is the second project I'm currently working on for Springboard's Data Science Career Track from 4/2018 to current
+  - I cleaned over a million rows of data from different sources and combined them into a single data frame. Using Dash, I created an
+  interactive visualization dashboard useful for exploratory data analysis. It is located at https://finding-crime-trends.herokuapp.com/
+
 Springboard project 1
 
 - This is the first project I did for Springboard's Data Science Career Track from 2/2018 to 3/2018.
